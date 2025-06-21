@@ -144,7 +144,6 @@ def get_medical_response(patient_data, prompt):
     response = model.generate_content([prompt, patient_data])
     return response.text
 
-
 # Send function
 def send():
     inp = e.get()
