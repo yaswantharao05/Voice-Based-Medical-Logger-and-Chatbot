@@ -22,8 +22,9 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - Start/Stop voice recording using buttons in the GUI.
 - Converts dictated medical information to text using **Whisper-large-v3**.
 - Text is displayed in the chatbot interface for confirmation/editing.
+### 🎤 1. Speech-to-Text Conversion
 
-> ![Speech-to-Text in Action](images/Picture1.png)
+<img src="images/Picture1.png" width="300"/>
 
 ---
 
@@ -32,20 +33,20 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - **Casual Mode**: Ask general questions like "Hi", "How are you?" for more relaxed interactions.
 - Switch modes dynamically using the GUI.
 
-> ![Initial Welcome Page](images/Picture2.png)  
-> _Fig: Initial Welcome Page – Casual Mode (default)_
+<img src="images/Picture2.png" width="300"/>  
+_Fig: Initial Welcome Page – Casual Mode (default)_
 
-> ![Chat Example](images/Picture3.png)  
-> _Fig: Chat box to send message and interact with Bot_
+<img src="images/Picture3.png" width="300"/>  
+_Fig: Chat box to send message and interact with Bot_
 
-> ![Bot Casual Response](images/Picture4.png)  
-> _Fig: Bot response in Casual Mode_
+<img src="images/Picture4.png" width="300"/>  
+_Fig: Bot response in Casual Mode_
 
-> ![Switched to Medical Mode](images/Picture5.png)  
-> _Fig: Switched to Medical Mode_
+<img src="images/Picture5.png" width="300"/>  
+_Fig: Switched to Medical Mode_
 
-> ![Switched to Casual Mode](images/Picture6.png)  
-> _Fig: Switched to Casual Mode_
+<img src="images/Picture6.png" width="300"/>  
+_Fig: Switched to Casual Mode_
 
 ---
 
@@ -54,8 +55,8 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - Converts the text to a **structured JSON format** for storing in a database.
 - Ensures reliable querying and chatbot responses in Medical Mode.
 
-> ![Extracted Info](images/Picture7.png)  
-> _Fig: Extracted and saved patient information_
+<img src="images/Picture7.png" width="300"/>  
+_Fig: Extracted and saved patient information_
 
 
 ---
