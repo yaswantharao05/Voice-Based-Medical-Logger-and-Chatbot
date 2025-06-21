@@ -24,7 +24,7 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - Text is displayed in the chatbot interface for confirmation/editing.
 ### 🎤 1. Speech-to-Text Conversion
 
-<img src="images/Picture1.png" width="300"/>
+<img src="images/Picture1.png" width="400"/>
 
 ---
 
@@ -33,19 +33,19 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - **Casual Mode**: Ask general questions like "Hi", "How are you?" for more relaxed interactions.
 - Switch modes dynamically using the GUI.
 
-<img src="images/Picture2.png" width="300"/>  
+<img src="images/Picture2.png" width="400"/>  
 _Fig: Initial Welcome Page – Casual Mode (default)_
 
-<img src="images/Picture3.png" width="300"/>  
+<img src="images/Picture3.png" width="400"/>  
 _Fig: Chat box to send message and interact with Bot_
 
-<img src="images/Picture4.png" width="300"/>  
+<img src="images/Picture4.png" width="400"/>  
 _Fig: Bot response in Casual Mode_
 
-<img src="images/Picture5.png" width="300"/>  
+<img src="images/Picture5.png" width="400"/>  
 _Fig: Switched to Medical Mode_
 
-<img src="images/Picture6.png" width="300"/>  
+<img src="images/Picture6.png" width="400"/>  
 _Fig: Switched to Casual Mode_
 
 ---
@@ -55,7 +55,7 @@ _Fig: Switched to Casual Mode_
 - Converts the text to a **structured JSON format** for storing in a database.
 - Ensures reliable querying and chatbot responses in Medical Mode.
 
-<img src="images/Picture7.png" width="300"/>  
+<img src="images/Picture7.png" width="400"/>  
 _Fig: Extracted and saved patient information_
 
 
