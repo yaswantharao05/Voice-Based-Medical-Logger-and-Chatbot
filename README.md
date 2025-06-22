@@ -15,9 +15,9 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - Automatically extract and structure patient information via the **Gemini API** for better storage and access.
  
 ---
-
+ 
 ## ✨ Features
-
+ 
 ### 🎤 1. Speech-to-Text Conversion
 - Start/Stop voice recording using buttons in the GUI.
 - Converts dictated medical information to text using **Whisper-large-v3**.
