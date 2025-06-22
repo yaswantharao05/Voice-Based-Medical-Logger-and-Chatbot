@@ -13,7 +13,7 @@ In the healthcare domain, efficient and accurate documentation is critical. This
 - Enter patient data using **voice commands**.
 - Interact with a **smart chatbot** that understands both medical and casual contexts.
 - Automatically extract and structure patient information via the **Gemini API** for better storage and access.
-
+ 
 ---
 
 ## ✨ Features
